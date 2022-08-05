@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koushikgshashidhar
-- 👀 I’m interested in Java techStack
+- 👀 I luv Problem Solving
 - 🌱 I’m currently learning SpringBoot,Hybris,Microservices and Automationt testing.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me koushikdream22@gmail.com
