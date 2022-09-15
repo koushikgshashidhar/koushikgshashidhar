@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @koushikgshashidhar
 - 👀 I luv Problem Solving
 - 🌱 I’m currently learning SpringBoot,Hybris,Microservices and Automationt testing.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me koushikdream22@gmail.com
 
 <!---
